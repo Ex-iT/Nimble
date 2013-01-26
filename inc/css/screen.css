@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	background-color: #000;
+	min-height: 100%;
+	width: 100%;
+}
+
+a {
+	border-bottom: 1px solid transparent;
+	color: #0ff;
+	text-decoration: none;
+}
+
+a:hover {
+	border-bottom: 1px solid #0ff;
+}
+
+h1 {
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.wrapper {
+	padding: 20px;
+}
+
+.list {
+	margin-left: 25px;
+}
+
+.list .item {
+	color: #fff;
+}
